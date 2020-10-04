@@ -69,7 +69,7 @@
 
     </dependencies>
 
-    <packaging>war</packaging>
+<!--    <packaging>war</packaging>-->
     <build>
         <finalName>springboot</finalName>
         <plugins>
